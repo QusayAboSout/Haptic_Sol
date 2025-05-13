@@ -1,9 +1,10 @@
 # React Fullstake Internship Task
 
-What I used ?
-1- React (Vite)
-2- PrimeReact + PrimeFlex
-3- HTML, CSS and TypeScript
+What I used?
+
+1. React (Vite)  
+2. PrimeReact + PrimeFlex  
+3. HTML, CSS and TypeScript
 
 =======
 
