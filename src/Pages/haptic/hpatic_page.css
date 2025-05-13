@@ -1,0 +1,77 @@
+.div1-color {
+  background-color: #ff4d12; /* Bootstrap primary blue */
+  color: white;
+}
+
+.haptic {
+  color: black;
+  border: none;
+  background-color: rgba(255, 255, 255, 0);
+}
+.haptic:hover {
+  color: rgb(156, 156, 156);
+  cursor: pointer;
+}
+.blue {
+  background-color: #0e51cc;
+  color: white;
+}
+.green {
+  background-color: #24992e;
+  color: white;
+}
+.gold {
+  background-color: #ccbd37;
+  color: white;
+}
+.red {
+  background-color: #632e2e;
+  color: white;
+}
+.menu-color {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+}
+.div1 {
+  height: 26rem;
+  padding: 1rem;
+}
+.div1-title {
+  font-size: 2.4rem;
+  font-weight: 500;
+  color: black;
+}
+.div1-paragraph {
+  color: black;
+  font-weight: 200;
+  font-size: 2.4rem;
+}
+.div1-icon {
+  font-size: 2rem;
+  color: #66706700;
+}
+
+.footer {
+  height: 25rem;
+}
+
+@media (min-width: 809px) {
+  .div1 {
+    height: 40rem;
+    padding: 3rem;
+  }
+  .div1-title {
+    font-size: 4rem;
+    font-weight: 600;
+  }
+  .div1-paragraph {
+    font-weight: 400;
+    font-size: 3rem;
+  }
+  .div1-icon {
+    color: black;
+  }
+  .footer {
+    height: 33;
+  }
+}

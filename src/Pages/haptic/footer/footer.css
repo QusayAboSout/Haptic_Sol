@@ -1,0 +1,42 @@
+.green {
+  background-color: #24992e;
+  color: white;
+}
+.gold {
+  background-color: #ccbd37;
+  color: white;
+}
+.red {
+  background-color: #632e2e;
+  color: white;
+}
+.div11 {
+  height: 23rem;
+  width: 20rem;
+  padding: 1rem;
+}
+.div22 {
+  height: 23rem;
+  padding: 1rem;
+  width: 50rem;
+}
+.div33 {
+  height: 23rem;
+  padding: 1rem;
+  width: 41rem;
+}
+.haptic-img{
+    height: 10rem;
+}
+li{
+    list-style-type:"";
+}
+
+@media (min-width: 809px) {
+  .div11 {
+  }
+  .div22 {
+  }
+  .div33 {
+  }
+}
